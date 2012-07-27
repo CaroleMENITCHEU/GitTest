@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <!-- Theme properties -->
-<string name="theme_title">ADWTheme Template</string>
+<string name="theme_title">HHbaseTheme</string>
 <!-- To devs, read here on howto format/style your descriptions -->
 <!-- http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling -->
 <string name="theme_description">This is a &lt;b>long description&lt;/b> for the theme.&lt;br/>
@@ -30,5 +30,5 @@ Maybe they could add some &lt;a href="http://www.google.com">links&lt;/a> too.</
 <integer name="config_ab_scale_factor">6</integer>
 <!-- Force the theme to use an specific dock style -->
 <!--  0=None, 1=3buttons, 2=5buttons, 3=1button -->
-<string name="main_dock_style">2</string>
+<string name="main_dock_style">0</string>
 </resources>
